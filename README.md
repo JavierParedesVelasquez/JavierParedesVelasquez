@@ -1,4 +1,4 @@
-![logo](https://github.com/JavierParedesVelasquez/JavierParedesVelasquez/blob/main/banner_config.png)
+![logo](https://github.com/JavierParedesVelasquez/JavierParedesVelasquez/blob/main/resource/images/banner_config.png)
 <h1 align="center">Hi 👋, I'm Javier Paredes</h1>
 <h3 align="center">Developer Front End | PHP | Javascript | React JS 👨🏻‍💻</h3>
 
